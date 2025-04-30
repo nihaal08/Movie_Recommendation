@@ -1,3 +1,4 @@
 similarity_matrix.pkl
+*.pkl
 *.csv
 movies_data.pkl
