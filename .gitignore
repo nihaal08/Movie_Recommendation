@@ -1,33 +1,3 @@
-# Byte-compiled / cache files
-__pycache__/
-*.py[cod]
-*.so
-
-# Virtual environment
-venv/
-env/
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# VSCode settings
-.vscode/
-
-# Logs and temp files
-*.log
-*.tmp
-
-# Data and model files
-*.csv
-*.h5
+# Ignore large dataset and model files
 *.pkl
-*.joblib
-
-# System files
-.DS_Store
-Thumbs.db
-
-# Git LFS tracked files (optional)
-*.zip
-*.tar.gz
-*.pt
+*.csv
