@@ -1,7 +1,3 @@
-Here's a polished and professional `README.md` file for your **Movie Recommendation System** project, formatted for clarity, readability, and appeal on platforms like GitHub:
-
----
-
 # 🎬 Movie Recommendation System
 
 A content-based movie recommendation engine that uses **NLP techniques** and **cosine similarity** to suggest movies similar to a user-selected title. Built with **Streamlit**, this interactive dashboard enables users to explore and discover new movies in a visually engaging manner.
@@ -222,6 +218,3 @@ See the [LICENSE](LICENSE) file for more details.
 * **[Kaggle](https://www.kaggle.com/)** – Hosting the dataset.
 * **[Streamlit](https://streamlit.io/)** – Building the interactive dashboard.
 
----
-
-Let me know if you'd like a downloadable `.md` file or want this customized further for deployment platforms like Heroku, Hugging Face, or GitHub Pages.
